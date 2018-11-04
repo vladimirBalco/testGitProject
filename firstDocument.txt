@@ -1,1 +1,2 @@
 data changed by second user
+Data changed in master branch
