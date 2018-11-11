@@ -1,3 +1,3 @@
 data changed by second user
 Data changed in master branch
-Added by real first user
+Edited by first user
